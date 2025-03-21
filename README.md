@@ -1,0 +1,1 @@
+Google Colab notebook for generating heatmaps that visualize attention areas in BioCLip image identification. GradCamiNat_Optimized.ipynb is code optimized to handle larger datasets efficiently and prevent memory issues. 
